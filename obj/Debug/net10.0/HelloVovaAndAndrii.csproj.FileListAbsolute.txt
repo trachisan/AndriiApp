@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HelloVovaAndAndrii\bin\Debug\net10.0\HelloVovaAndAndrii.exe
+C:\Users\User\source\repos\HelloVovaAndAndrii\bin\Debug\net10.0\HelloVovaAndAndrii.deps.json
+C:\Users\User\source\repos\HelloVovaAndAndrii\bin\Debug\net10.0\HelloVovaAndAndrii.runtimeconfig.json
+C:\Users\User\source\repos\HelloVovaAndAndrii\bin\Debug\net10.0\HelloVovaAndAndrii.dll
+C:\Users\User\source\repos\HelloVovaAndAndrii\bin\Debug\net10.0\HelloVovaAndAndrii.pdb
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.dll
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\refint\HelloVovaAndAndrii.dll
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.pdb
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVovaAndAndrii.genruntimeconfig.cache
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\ref\HelloVovaAndAndrii.dll
+C:\Users\User\source\repos\HelloVovaAndAndrii\obj\Debug\net10.0\HelloVov.ADA72A73.Up2Date
